@@ -20,6 +20,6 @@ Computer Science student at Northeastern University (Khoury College of Computer 
 **Languages:** Java, JavaScript, C, Python, Racket, SQL  
 **Tools:** Git, GitHub, Godot, VS Code, IntelliJ, LaTeX, Blender
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/cooper-wick/
-- Email: cooperwick2005@gmail.com
+## 📫 Links
+Email: cooperwick2005@gmail.com
+LinkedIn: https://www.linkedin.com/in/cooper-wick/
