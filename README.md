@@ -8,7 +8,7 @@ I'm a Computer Science student at Northeastern University (Khoury College of Com
 - Explorer at the **NEU Makerspace**, serving as a technician and trainer across digital fabrication and manufacturing tools.
 
 ## 🚀 Projects
-**[Bouncy Dungeon](https://github.com/cooper-wick/bouncy_dungeon)** — GDScript <br>
+**[Ricochet Royale](https://github.com/cooper-wick/ricochet-royale)** — GDScript <br>
 A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
 
 ## 🛠️ Skills
