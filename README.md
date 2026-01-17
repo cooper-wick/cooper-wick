@@ -15,5 +15,5 @@ Computer Science student at Northeastern University (Khoury College of Computer 
 **Tools:** Git, GitHub, Godot, VS Code, IntelliJ, LaTeX, Blender
 
 ## 📫 Links
-Email: cooperwick2005@gmail.com
+Email: cooperwick2005@gmail.com  
 LinkedIn: https://www.linkedin.com/in/cooper-wick/
