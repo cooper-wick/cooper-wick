@@ -11,6 +11,7 @@ Explorer at the **NEU Makerspace**, serving as a technician and trainer across d
 
 ## 🚀 Projects
 **[Bouncy Dungeon](https://github.com/cooper-wick/bouncy_dungeon)** — GDScript
+
 A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
 
 ## 🛠️ Skills
