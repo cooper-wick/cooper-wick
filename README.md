@@ -1,12 +1,6 @@
-# Cooper Wick
+# 👋 Cooper Wick
 
 Computer Science student at Northeastern University (Khoury College of Computer Science) with a strong foundation in algorithms, systems, and software design.
-
-## Interests
-- Systems and low-level programming
-- Algorithms and theory of computation
-- Game development and simulation
-- Developer tooling and UI infrastructure
 
 ## Experience Highlights
 - Software Development Intern at **Facer**, where I implemented CodeMirror v6 to improve script editing tools with autocomplete, linting, and syntax highlighting.
@@ -16,10 +10,11 @@ Computer Science student at Northeastern University (Khoury College of Computer 
 ## Projects
 - **Bouncy Dungeon** — A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
 
-## Skills
+## 🛠️ Skills
 **Languages:** Java, JavaScript, C, Python, Racket, SQL  
 **Tools:** Git, GitHub, Godot, VS Code, IntelliJ, LaTeX, Blender
 
 ## 📫 Links
 Email: cooperwick2005@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/cooper-wick/
