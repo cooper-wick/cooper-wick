@@ -1,16 +1,25 @@
-## Hi there 👋
+# Cooper Wick
 
-<!--
-**Volitantfive599/Volitantfive599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Northeastern University (Khoury College of Computer Science) with a strong foundation in algorithms, systems, and software design.
 
-Here are some ideas to get you started:
+## Interests
+- Systems and low-level programming
+- Algorithms and theory of computation
+- Game development and simulation
+- Developer tooling and UI infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience Highlights
+- Software Development Intern at **Facer**, where I implemented CodeMirror v6 to improve script editing tools with autocomplete, linting, and syntax highlighting.
+- Freelance Game Developer at **Inner Loops**, optimizing graph-based search systems and achieving performance improvements of up to 100×.
+- Explorer at the **NEU Makerspace**, serving as a technician and trainer across digital fabrication and manufacturing tools.
+
+## Projects
+- **Bouncy Dungeon** — A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
+
+## Skills
+**Languages:** Java, JavaScript, C, Python, Racket, SQL  
+**Tools:** Git, GitHub, Godot, VS Code, IntelliJ, LaTeX, Blender
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/cooper-wick/
+- Email: cooperwick2005@gmail.com
