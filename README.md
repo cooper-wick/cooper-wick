@@ -4,11 +4,14 @@ Computer Science student at Northeastern University (Khoury College of Computer 
 
 ## 💻 Experience Highlights
 Software Development Intern at **Facer**, where I implemented CodeMirror v6 to improve script editing tools with autocomplete, linting, and syntax highlighting.
+
 Freelance Game Developer at **Inner Loops**, optimizing graph-based search systems and achieving performance improvements of up to 100×.
+
 Explorer at the **NEU Makerspace**, serving as a technician and trainer across digital fabrication and manufacturing tools.
 
 ## 🚀 Projects
-**[Bouncy Dungeon](https://github.com/cooper-wick/bouncy_dungeon)** — A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
+**[Bouncy Dungeon](https://github.com/cooper-wick/bouncy_dungeon)** — GDScript
+A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
 
 ## 🛠️ Skills
 **Languages:** Java, JavaScript, C, Python, Racket, SQL  
