@@ -1,6 +1,6 @@
 # 👋 Greetings, I'm Cooper Wick
 
-Computer Science student at Northeastern University (Khoury College of Computer Science) with a strong foundation in algorithms, systems, and software design. I ain to use software as a tool to reduce security vulnerabilities and improve accessibility.
+Computer Science student at Northeastern University (Khoury College of Computer Science) with a strong foundation in algorithms, systems, and software design. I aim to use software as a tool to reduce security vulnerabilities and improve accessibility.
 
 ## 💻 Experience Highlights
 - Software Development Intern at **Facer**, where I implemented CodeMirror v6 to improve script editing tools with autocomplete, linting, and syntax highlighting.
@@ -12,8 +12,8 @@ Computer Science student at Northeastern University (Khoury College of Computer 
 A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
 
 ## 🛠️ Skills
-**Languages:** Java, JavaScript, C, Python, Racket, SQL  
-**Tools:** Git, GitHub, Godot, VS Code, IntelliJ, LaTeX, Blender
+**Languages:** Java | JavaScript | C | Python | Racket | SQL  
+**Tools:** Git | GitHub | Godot | VS Code | IntelliJ | LaTeX | Blender
 
 ## 📫 Links
 Email: cooperwick2005@gmail.com  
