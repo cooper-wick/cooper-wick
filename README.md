@@ -12,7 +12,7 @@ I'm a Computer Science student at Northeastern University (Khoury College of Com
 A four-player party game built in Godot featuring FSM-based player systems, physics-driven combat, and full controller support.
 
 **[Sanguine Queen's Blood](https://github.com/cooper-wick/sanguine-readme)** - Java <br>
-a two-player, turn-based strategy card game implemented in Java featuring MVC architecture, human and AI controlled players, and a GUI interface.
+A two-player, turn-based strategy card game implemented in Java featuring MVC architecture, human and AI controlled players, and a GUI interface.
 
 ## 🛠️ Skills
 **Languages:** Java | JavaScript | C | Python | Racket | SQL  
