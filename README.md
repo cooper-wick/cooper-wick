@@ -8,7 +8,7 @@ I'm a Computer Science student at Northeastern University (Khoury College of Com
 - Explorer at the **NEU Makerspace**, serving as a technician and trainer across digital fabrication and manufacturing tools.
 
 ## 🚀 Projects
-__[Mosaic Mashup](link)__ — TypeScript | HTML <br>
+__[Mosaic Mashup]([link](https://github.com/cooper-wick/mosaic-mashup))__ — TypeScript | HTML <br>
 A mobile web puzzle game built in 24 hours under 15kb with zero libraries, featuring custom WebGL shaders for real-time Voronoi diagram rendering.
 
 **[Solitaire](https://github.com/cooper-wick/solitaire-readme)** - Java <br>
